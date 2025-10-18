@@ -1,2 +1,2 @@
 # LeAK-GraphRAG
-Our project is
+Our project is about 
