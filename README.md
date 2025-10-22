@@ -1,2 +1,2 @@
 # LeAK-GraphRAG
-Our project is about 
+This study introduces LeAK-GraphRAG, a framework that leverages knowledge graphs tailored for legal papers to enhance the semantic understanding of large language models (LLMs) regarding specialized legal academic knowledge and reduce hallucinations. Using a corpus of legal papers, we automatically extracted entities and relations with LLMs to construct a knowledge graph and systematically evaluated the performance of three retrieval methods and five LLMs. Experimental results demonstrated that the hybrid retrieval strategy achieved the best overall performance across most evaluation metrics, effectively combining semantic similarity with the structural relations of knowledge graph entities. 
